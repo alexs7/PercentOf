@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PercentOf</string>
     <string name="of">% of</string>
+    <string name="is">is</string>
 </resources>
